@@ -313,7 +313,7 @@ p.lead{
 #intro .jumbotron {
     box-shadow: 0px 0px 14px rgb(230, 230, 230);
     border-radius: 0%;
-    background-image: url('../pictures/banner.jpg');
+    background-image: url('../images/banner.jpg');
     background-position: center center;
     background-size:cover;
     height:90vh; 
